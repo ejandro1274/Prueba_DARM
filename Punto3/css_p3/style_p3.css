@@ -1,0 +1,45 @@
+html{
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    line-height: 1;
+    background-color: rgba(106, 103, 171, 0.5);
+}
+input{
+
+
+    width: 20%;
+    padding: 1rem;
+    border-radius: .5rem;
+}
+#enviar {
+    padding: 1rem 3rem;
+    margin-top: 3rem;
+    font-size: 2rem;
+    border-radius: .5rem;
+    width: 10%;
+    
+   
+
+}
+#entrada1, #boton_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#respuesta{
+    display: block;
+
+
+}
